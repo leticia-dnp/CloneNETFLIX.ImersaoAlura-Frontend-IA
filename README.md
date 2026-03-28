@@ -16,9 +16,10 @@ Este projeto vai além da réplica original, trazendo duas funcionalidades exclu
 
 ## Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+- HTML
+- CSS
+- JavaScript
+- VSCode
 
 Acesso direto a parte inicial - Perfis: http://127.0.0.1:5500/   |     Catálogos: http://127.0.0.1:5500/catalogo.html
 
