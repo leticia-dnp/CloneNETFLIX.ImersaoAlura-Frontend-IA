@@ -21,6 +21,9 @@ O projeto vai além da réplica original, trazendo duas funcionalidades exclusiv
 - CSS3
 - JavaScript (ES6+)
 
-## 💡Nessa imersão, coloquei em prática conceitos de estruturação semântica com HTML, 
-estilização avançada com CSS e manipulação do DOM com JavaScript — 
+## Acesso direto a parte inicial - Perfis: http://127.0.0.1:5500/
+##           ''                 - Catálogos: http://127.0.0.1:5500/catalogo.html
+
+💡Nessa imersão, coloquei em prática conceitos de estruturação semântica com HTML, 
+estilização avançada com CSS e manipulação do DOM com JavaScript e
 com o auxílio de IA como ferramenta de apoio ao desenvolvimento.
