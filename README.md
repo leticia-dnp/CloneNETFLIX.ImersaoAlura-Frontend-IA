@@ -19,7 +19,9 @@ Este projeto vai além da réplica original, trazendo duas funcionalidades exclu
 - HTML
 - CSS
 - JavaScript
-- VSCode
+- VSCode 
+- Copilot (geração de ideias e esclarecimento de dúvidas)
+- Gemini (gerar, estruturar e corrigir a semântica dos códigos)
 
 Acesso direto a parte inicial - Perfis: http://127.0.0.1:5500/   |     Catálogos: http://127.0.0.1:5500/catalogo.html
 
