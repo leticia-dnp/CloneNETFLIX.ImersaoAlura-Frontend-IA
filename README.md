@@ -1,6 +1,6 @@
 # 🎬 Netflix Clone
 
-Projeto desenvolvido com o objetivo de replicar a interface da Netflix utilizando tecnologias fundamentais do desenvolvimento web (HTML, CSS E JS).
+Projeto desenvolvido com o objetivo de replicar a interface da Netflix utilizando tecnologias fundamentais do desenvolvimento web.
 Este projeto vai além da réplica original, trazendo duas funcionalidades exclusivas criadas do zero.
 
 ## Funcionalidades
