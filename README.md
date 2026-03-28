@@ -1,8 +1,7 @@
 # 🎬 Netflix Clone
 
-Projeto desenvolvido durante a **Imersão Frontend com IA** da Alura, 
-com o objetivo de replicar a interface da Netflix utilizando tecnologias fundamentais do desenvolvimento web.
-O projeto vai além da réplica original, trazendo duas funcionalidades exclusivas criadas do zero.
+Projeto desenvolvido com o objetivo de replicar a interface da Netflix utilizando tecnologias fundamentais do desenvolvimento web (HTML, CSS E JS).
+Este projeto vai além da réplica original, trazendo duas funcionalidades exclusivas criadas do zero.
 
 ## Funcionalidades
 
