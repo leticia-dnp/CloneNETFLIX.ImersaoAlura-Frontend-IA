@@ -23,8 +23,6 @@ Este projeto vai além da réplica original, trazendo duas funcionalidades exclu
 - Copilot (geração de ideias e esclarecimento de dúvidas)
 - Gemini (gerar imagens, estruturar e corrigir a semântica dos códigos)
 
-Veja o esboço do meu projeto funcionando aqui: http://127.0.0.1:5500/ 
-
 💡Nessa imersão, coloquei em prática conceitos de estruturação semântica com HTML, 
 estilização avançada com CSS e manipulação do DOM com JavaScript e
 com o auxílio de IA como ferramenta de apoio ao desenvolvimento.
